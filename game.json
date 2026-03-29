@@ -1,0 +1,2039 @@
+{
+    "gameId": "rdr2",
+    "gameName": "Red Dead Redemption 2",
+    "dataVersion": 1,
+    "updateNotes": [
+        "Improved map accuracy for RDR2",
+        "New map locations added"
+    ],
+    "loadTime": "300",
+    "discord": "https://discord.gg/EzzD4VxPwg",
+    "youtube": "https://www.youtube.com/@Mr23TVx",
+    "website": "",
+    "reportform": "",
+    "maps": [
+        {
+            "mapId": "map_ls",
+            "mapName": "RDR2 MAP",
+            "atlasImage": "",
+            "atlasColor": "#13A7D2",
+            "satelliteImage": "Maps/rdr2map",
+            "satelliteColor": "#C8B58A",
+            "roadmapImage": "Maps/rdr2maproad",
+            "roadmapColor": "#F3EDDD",
+            "sections": [
+                {
+                    "sectionId": "sec_events",
+                    "sectionName": "Events",
+                    "elements": [
+                        {
+                            "elementId": "el_ganghideout",
+                            "elementName": "Gang Hideouts",
+                            "elementIcon": "Used Icons/bunker1",
+                            "elementColor": "#A15E4A",
+                            "items": [
+                                {
+                                    "itemId": "it_ganghideout_01",
+                                    "title": "Gaptooth Breach",
+                                    "description": "Gang Hideout\n\nDel Lobo's hideout",
+                                    "x": 0.1044,
+                                    "y": 0.2935,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_02",
+                                    "title": "Solomon's Folly",
+                                    "description": "Gang Hideout\n\nDel Lobo's hideout\n\nA huge stack of bills can be found in the basement beneath the burnt house.",
+                                    "x": 0.1548,
+                                    "y": 0.2558,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_03",
+                                    "title": "Fort Mercer",
+                                    "description": "Gang Hideout\n\nDel Lobo's hideout",
+                                    "x": 0.2602,
+                                    "y": 0.2754,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_04",
+                                    "title": "Twin Rocks",
+                                    "description": "Gang Hideout\n\nNote: Only available for owners of the Special / Ultimate Edition of the game.\n\nNote: There's a Gold Nugget in the night stand of the middle cabin",
+                                    "x": 0.2821,
+                                    "y": 0.3903,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_05",
+                                    "title": "Thieves Landing",
+                                    "description": "Gang Hideout\n\nDel Lobo hideout",
+                                    "x": 0.5068,
+                                    "y": 0.3739,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_06",
+                                    "title": "Skinner Brothers Hideout",
+                                    "description": "Gang Hideout\n\nNB: The Skinner Brothers hideouts are secret hideouts that don't always spawn. This one appears to spawn in the morning.",
+                                    "x": 0.4570,
+                                    "y": 0.4157,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_07",
+                                    "title": "Skinner Brothers Hideout",
+                                    "description": "Gang Hideout\n\nNB: The Skinner Brothers hideouts are secret hideouts that don't always spawn.",
+                                    "x": 0.3967,
+                                    "y": 0.4515,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_08",
+                                    "title": "Skinner Brothers Hideout",
+                                    "description": "Gang Hideout\n\nNB: The Skinner Brothers hideouts are secret hideouts that don't always spawn. This one appears to spawn in the morning.",
+                                    "x": 0.4173,
+                                    "y": 0.4609,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_09",
+                                    "title": "Skinner Brothers Hideout",
+                                    "description": "Gang Hideout\n\nNB: The Skinner Brothers hideouts are secret hideouts that don't always spawn. This one appears to spawn in the morning.",
+                                    "x": 0.4470,
+                                    "y": 0.4670,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_10",
+                                    "title": "Hanging Dog Ranch",
+                                    "description": "Gang Hideout\n\nHome to O'Driscolls during chapters 1-6, then occupied by the Laramie Gang during the epilogue.",
+                                    "x": 0.4381,
+                                    "y": 0.6409,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_11",
+                                    "title": "Six Point Cabin",
+                                    "description": "Gang Hideout\n\nO'Driscolls hideout\n\nNote: Cleared during the mission Paying a Social Call.",
+                                    "x": 0.6239,
+                                    "y": 0.6871,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_12",
+                                    "title": "Beaver Hollow",
+                                    "description": "Gang Hideout\n\nMurfree Brood hideout",
+                                    "x": 0.8397,
+                                    "y": 0.6967,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_ganghideout_13",
+                                    "title": "Shady Belle",
+                                    "description": "Gang Hideout\n\nLemoyne Raiders' hideout",
+                                    "x": 0.7965,
+                                    "y": 0.4143,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_stranger",
+                            "elementName": "Stranger",
+                            "elementIcon": "Used Icons/question",
+                            "elementColor": "#A15E4A",
+                            "items": [
+                                {
+                                    "itemId": "it_stranger_01",
+                                    "title": "The American Inferno, Burnt Out",
+                                    "description": "Stranger\n\nQuest Giver: Evelyn Miller\nRequirements: Complete The Landowning Classes (Epilogue 1)\n\nOn a Hill overlooking West Elizabeth, you'll find Evelyn Miller sitting and writing (he's the author Dutch used to read frequently).",
+                                    "x": 0.4490,
+                                    "y": 0.4848,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stranger_02",
+                                    "title": "Arcadia For Amateurs (I)",
+                                    "description": "Stranger\n\nQuest Giver: Albert Mason\nRegion: south-east of Strawberry\nRequirements: none\nReward: Honor",
+                                    "x": 0.5113,
+                                    "y": 0.5147,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stranger_03",
+                                    "title": "Geology for Beginners",
+                                    "description": "Stranger\n\nQuest Giver: Francis Sinclair\n\nRegion: Hut north-west of Strawberry\n\nRequirements: Chapter 2 onwards\n\nRewards:\n Old Brass Compass\n Kentucky Bourbon\n Rock Statue",
+                                    "x": 0.4398,
+                                    "y": 0.5563,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stranger_04",
+                                    "title": "The Ties That Bind Us (V)",
+                                    "description": "Stranger\n\nQuest Giver: Mr. Black & Mr. White (Chain Gang)\n\nRequirements: Complete The Ties That Bind Us (IV)",
+                                    "x": 0.4150,
+                                    "y": 0.6522,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stranger_05",
+                                    "title": "Arcadia For Amateurs (II)",
+                                    "description": "Stranger\n\nQuest Giver: Albert Mason\nRegion: North-west of Wallace Station\nRequirements: Complete Arcadia For Amateurs (I)",
+                                    "x": 0.4832,
+                                    "y": 0.6303,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stranger_06",
+                                    "title": "To The Ends of the Earth (III)",
+                                    "description": "Stranger\n\nQuest Giver: William\nRequirements: Chapter 2 onwards\nReward: Horse Reviver",
+                                    "x": 0.5107,
+                                    "y": 0.5888,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stranger_07",
+                                    "title": "Oh, Brother (III)",
+                                    "description": "Stranger\n\nQuest Giver: Proetus & Acrisius\nRequirements: Complete Oh, Brother part 1 & part 2",
+                                    "x": 0.5396,
+                                    "y": 0.6162,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sectionId": "sec_minigames",
+                    "sectionName": "Minigames",
+                    "elements": [
+                        {
+                            "elementId": "el_blackjacks",
+                            "elementName": "Blackjack",
+                            "elementIcon": "Used Icons/poker-cards",
+                            "elementColor": "#93232C",
+                            "items": [
+                                {
+                                    "itemId": "it_blackjack_01",
+                                    "title": "Blackjack",
+                                    "description": "May only be available after The Smell of the Grease Paint",
+                                    "x": 0.8905,
+                                    "y": 0.6243,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_blackjack_02",
+                                    "title": "Blackjack",
+                                    "description": "Blackjack",
+                                    "x": 0.7494,
+                                    "y": 0.4574,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_blackjack_03",
+                                    "title": "Blackjack",
+                                    "description": "Blackjack",
+                                    "x": 0.5598,
+                                    "y": 0.4621,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_dominoes",
+                            "elementName": "Dominoes",
+                            "elementIcon": "Used Icons/domino",
+                            "elementColor": "#93232C",
+                            "items": [
+                                {
+                                    "itemId": "it_dominoes_01",
+                                    "title": "Dominoes: All Threes",
+                                    "description": "In the camp",
+                                    "x": 0.5499,
+                                    "y": 0.4569,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_dominoes_02",
+                                    "title": "Dominoes: All Fives",
+                                    "description": "Dominoes",
+                                    "x": 0.8531,
+                                    "y": 0.4683,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_dominoes_03",
+                                    "title": "Dominoes",
+                                    "description": "Dominoes",
+                                    "x": 0.7657,
+                                    "y": 0.6164,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_fivefinger",
+                            "elementName": "Five Finger Fillet",
+                            "elementIcon": "Used Icons/hand",
+                            "elementColor": "#93232C",
+                            "items": [
+                                {
+                                    "itemId": "it_fivefinger_01",
+                                    "title": "Five Finger Fillet",
+                                    "description": "Five Finger Fillet",
+                                    "x": 0.8908,
+                                    "y": 0.6241,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fivefinger_02",
+                                    "title": "Five Finger Fillet",
+                                    "description": "Only available during Chapter 3.",
+                                    "x": 0.6902,
+                                    "y": 0.4680,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fivefinger_03",
+                                    "title": "Five Finger Fillet",
+                                    "description": "Five Finger Fillet",
+                                    "x": 0.6105,
+                                    "y": 0.6461,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fivefinger_04",
+                                    "title": "Five Finger Fillet",
+                                    "description": "Five Finger Fillet",
+                                    "x": 0.4708,
+                                    "y": 0.5402,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_poker",
+                            "elementName": "Poker",
+                            "elementIcon": "Used Icons/poker-chip",
+                            "elementColor": "#93232C",
+                            "items": [
+                                {
+                                    "itemId": "it_poker_01",
+                                    "title": "Poker",
+                                    "description": "Poker",
+                                    "x": 0.1460,
+                                    "y": 0.3217,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_poker_02",
+                                    "title": "Poker",
+                                    "description": "Poker",
+                                    "x": 0.5604,
+                                    "y": 0.4628,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_poker_03",
+                                    "title": "Poker",
+                                    "description": "Poker",
+                                    "x": 0.6020,
+                                    "y": 0.5462,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_poker_04",
+                                    "title": "Poker",
+                                    "description": "Poker",
+                                    "x": 0.6042,
+                                    "y": 0.6492,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_poker_05",
+                                    "title": "Poker",
+                                    "description": "Poker",
+                                    "x": 0.6903,
+                                    "y": 0.4663,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_poker_06",
+                                    "title": "Poker",
+                                    "description": "Poker",
+                                    "x": 0.8635,
+                                    "y": 0.4700,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sectionId": "sec_amenities",
+                    "sectionName": "Amenities",
+                    "elements": [
+                        {
+                            "elementId": "el_baitshop",
+                            "elementName": "Bait Shop",
+                            "elementIcon": "Used Icons/fishing-hook",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_baitshop_01",
+                                    "title": "Bait Shop",
+                                    "description": "Bait:\n Live Crickets – $0.50\n Live Worms – $0.50\n Crayfish – $0.25\n Herbivore Bait – $2.25\n Predator Bait – $3.00\n\nLures:\n Special Lake / River / Swamp Lure – $20\n Lake Lure – $2.50\n River Lure – $2.50\n Swamp Lure – $2.50",
+                                    "x": 0.8218,
+                                    "y": 0.5240,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_barber",
+                            "elementName": "Barber",
+                            "elementIcon": "Used Icons/barber",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_barber_01",
+                                    "title": "Barber",
+                                    "description": "Barber",
+                                    "x": 0.8655,
+                                    "y": 0.4745,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_barber_02",
+                                    "title": "Barber",
+                                    "description": "Barber",
+                                    "x": 0.6045,
+                                    "y": 0.6502,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_barber_03",
+                                    "title": "Barber",
+                                    "description": "Barber",
+                                    "x": 0.5600,
+                                    "y": 0.4580,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_butcher",
+                            "elementName": "Butcher",
+                            "elementIcon": "Used Icons/cleaver",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_butcher_01",
+                                    "title": "Butcher",
+                                    "description": "Salted Beef - $1.50\nSalted Venison - $1.90\nMature Venison Meat - $5.50\nPrime Beef Joint - $5.50\nTender Pork Loin - $5.50",
+                                    "x": 0.1461,
+                                    "y": 0.3189,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_butcher_02",
+                                    "title": "Butcher",
+                                    "description": "Salted Beef - $1.50\nSalted Venison - $1.90\nMature Venison Meat - $5.50\nPrime Beef Joint - $5.50\nTender Pork Loin - $5.50",
+                                    "x": 0.5648,
+                                    "y": 0.4648,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_butcher_03",
+                                    "title": "Butcher",
+                                    "description": "Salted Beef - $1.50\nSalted Venison - $1.90\nMature Venison Meat - $5.50\nPrime Beef Joint - $5.50\nTender Pork Loin - $5.50",
+                                    "x": 0.4773,
+                                    "y": 0.5436,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_butcher_04",
+                                    "title": "Butcher",
+                                    "description": "Salted Beef - $1.50\nSalted Venison - $1.90\nMature Venison Meat - $5.50\nPrime Beef Joint - $5.50\nTender Pork Loin - $5.50",
+                                    "x": 0.6020,
+                                    "y": 0.6463,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_butcher_05",
+                                    "title": "Butcher",
+                                    "description": "Salted Beef - $1.50\nSalted Venison - $1.90\nMature Venison Meat - $5.50\nPrime Beef Joint - $5.50\nTender Pork Loin - $5.50",
+                                    "x": 0.7458,
+                                    "y": 0.4652,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_butcher_06",
+                                    "title": "Butcher",
+                                    "description": "Salted Beef - $1.50\nSalted Venison - $1.90\nMature Venison Meat - $5.50\nPrime Beef Joint - $5.50\nTender Pork Loin - $5.50",
+                                    "x": 0.8802,
+                                    "y": 0.4615,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_doctor",
+                            "elementName": "Doctor",
+                            "elementIcon": "Used Icons/hospital",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_doctor_01",
+                                    "title": "Doctor",
+                                    "description": "Doctor",
+                                    "x": 0.8715,
+                                    "y": 0.4699,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_doctor_02",
+                                    "title": "Doctor",
+                                    "description": "Valentine's local physician sells various remedies, tonics, and pick-me-ups, and will buy and health-related items you have to spare.",
+                                    "x": 0.6065,
+                                    "y": 0.6490,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_fencevendor",
+                            "elementName": "Fence Vendor",
+                            "elementIcon": "Used Icons/fence",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_fencevendor_01",
+                                    "title": "Fence Vendor",
+                                    "description": "Requirements: Only available after completing Horse Flesh for Dinner.\n\nDavies Brothers Superior Livestock Dealers.\n\nWill pay more than a stable for stolen or wild horses",
+                                    "x": 0.6933,
+                                    "y": 0.5050,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fencevendor_02",
+                                    "title": "Fence Vendor",
+                                    "description": "Fence Vendor",
+                                    "x": 0.7479,
+                                    "y": 0.4774,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fencevendor_03",
+                                    "title": "Fence Vendor",
+                                    "description": "Requirements: Chapter 2 - unlocked after 'The Spines of America'.\n\nThe only fence who will buy stolen stagecoaches and carriages.",
+                                    "x": 0.7565,
+                                    "y": 0.6027,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fencevendor_04",
+                                    "title": "Fence Vendor",
+                                    "description": "Sells:\n High Roller Revolver",
+                                    "x": 0.8823,
+                                    "y": 0.4723,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fencevendor_05",
+                                    "title": "Fence Vendor",
+                                    "description": "Fence Vendor",
+                                    "x": 0.8977,
+                                    "y": 0.6276,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fencevendor_06",
+                                    "title": "Fence Vendor (Online)",
+                                    "description": "Fence Vendor (Online Only)",
+                                    "x": 0.5085,
+                                    "y": 0.3744,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_generalstore",
+                            "elementName": "General Store",
+                            "elementIcon": "Used Icons/store",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_generalstore_01",
+                                    "title": "General Store",
+                                    "description": "General Store",
+                                    "x": 0.8814,
+                                    "y": 0.4624,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_generalstore_02",
+                                    "title": "General Store",
+                                    "description": "Unique Items\n\nOutfits:\n The Chevalier - Honor Rank 3 - $98.00\n The Heartlands - $86.50\n The Gambler - Honor Rank 6 - $123.35\n The Earl - $92.25\n\nBoots:\n Wingtip Gaiters - $19.00\n\nNeckties:\n Puff Tie - $4.50",
+                                    "x": 0.7487,
+                                    "y": 0.4645,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_generalstore_03",
+                                    "title": "General Store",
+                                    "description": "General Store",
+                                    "x": 0.5629,
+                                    "y": 0.4613,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_generalstore_04",
+                                    "title": "General Store",
+                                    "description": "Unique Items\n\nOutfits:\n The Valentine - Honor Rank 3 - $113.25\n The Vaquero - $85.50\n The Dewberry Creek - Honor Rank 6 - $115.50\n The Clairmont - $92.75\n\nChaps:\n Shotgun Chaps - $13.25\n Fringed Shotgun Chaps - $12.00",
+                                    "x": 0.6032,
+                                    "y": 0.6490,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_generalstore_05",
+                                    "title": "General Store",
+                                    "description": "Unique Items\n\nOutfits:\n The Roscoe - Honor Rank 3 - $96.25\n The Estate Boss - $62.25\n The Drover - Honor Rank 6 - $90.25\n The Calumet - $81.00",
+                                    "x": 0.5170,
+                                    "y": 0.6133,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_generalstore_06",
+                                    "title": "General Store",
+                                    "description": "Unique Items\n\nOutfits:\n The Cumberland - Honor Rank 3 - $105.75\n The Millesani - $83.75\n The Faulkton - Honor Rank 6 - $84.50\n The Dolton - $61.75",
+                                    "x": 0.4737,
+                                    "y": 0.5441,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_generalstore_07",
+                                    "title": "General Store",
+                                    "description": "Unique Items\n\nOutfits:\n The Bulldogger - Honor Rank 3 - $79.50\n The Ranch Hand - $65.75\n The Scrapper - Honor Rank 6 - $71.50\n The Armadillo - $57.25",
+                                    "x": 0.3068,
+                                    "y": 0.3468,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_generalstore_08",
+                                    "title": "General Store",
+                                    "description": "Unique Items\n\nOutfits:\n The Cowpuncher - Honor Rank 3 - $107.75\n The Tumbleweed - $98.25\n The Drifter - Honor Rank 6 - $88.75\n The Leatherman - $94.50\n\nChaps:\n Shotgun Chaps - $13.25\n Fringed Shotgun Chaps - $12.00",
+                                    "x": 0.3068,
+                                    "y": 0.3468,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_gunsmithstore",
+                            "elementName": "Gunsmith Store",
+                            "elementIcon": "Used Icons/gun",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_gunsmithstore_01",
+                                    "title": "Gunsmith",
+                                    "description": "Cattleman Revolver - $50\nDouble-Action Revolver - $65\nSchofield Revolver - $84\nVolcanic Pistol - $150\nSemi-Automatic Pistol - $210\nMauser Pistol - $250\nCarbine Repeater - $90\nLancaster Repeater - $135\nLitchfield Repeater - $145\nVarmint Rifle - $72\nSpringfield Rifle - $120\nBolt Action Rifle - $180\nRolling Block Rifle - $187\nCarcano Rifle - $190\nDouble-Barreled Shotgun - $95\nSawed-Off Shotgun - $85\nPump-Action Shotgun - $148\nSemi-Auto Shotgun - $225\nRepeating Shotgun - $185",
+                                    "x": 0.1466,
+                                    "y": 0.3171,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_gunsmithstore_02",
+                                    "title": "Gunsmith",
+                                    "description": "Cattleman Revolver - $50\nDouble-Action Revolver - $65\nSchofield Revolver - $84\nVolcanic Pistol - $150\nSemi-Automatic Pistol - $210\nMauser Pistol - $250\nCarbine Repeater - $90\nLancaster Repeater - $135\nLitchfield Repeater - $145\nVarmint Rifle - $72\nSpringfield Rifle - $120\nBolt Action Rifle - $180\nRolling Block Rifle - $187\nCarcano Rifle - $190\nDouble-Barreled Shotgun - $95\nSawed-Off Shotgun - $85\nPump-Action Shotgun - $148\nSemi-Auto Shotgun - $225\nRepeating Shotgun - $185",
+                                    "x": 0.6071,
+                                    "y": 0.6472,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_gunsmithstore_03",
+                                    "title": "Gunsmith",
+                                    "description": "Cattleman Revolver - $50\nDouble-Action Revolver - $65\nSchofield Revolver - $84\nVolcanic Pistol - $150\nSemi-Automatic Pistol - $210\nMauser Pistol - $250\nCarbine Repeater - $90\nLancaster Repeater - $135\nLitchfield Repeater - $145\nVarmint Rifle - $72\nSpringfield Rifle - $120\nBolt Action Rifle - $180\nRolling Block Rifle - $187\nCarcano Rifle - $190\nDouble-Barreled Shotgun - $95\nSawed-Off Shotgun - $85\nPump-Action Shotgun - $148\nSemi-Auto Shotgun - $225\nRepeating Shotgun - $185",
+                                    "x": 0.7484,
+                                    "y": 0.4619,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_gunsmithstore_04",
+                                    "title": "Gunsmith",
+                                    "description": "Lemat Revolver - $139.50\nCattleman Revolver - $50\nDouble-Action Revolver - $65\nSchofield Revolver - $84\nVolcanic Pistol - $150\nM1899 Pistol - $315\nSemi-Automatic Pistol - $210\nMauser Pistol - $250\nEvans Repeater - $126\nCarbine Repeater - $90\nLancaster Repeater - $135\nLitchfield Repeater - $145\nVarmint Rifle - $72\nSpringfield Rifle - $120\nBolt Action Rifle - $180\nRolling Block Rifle - $187\nCarcano Rifle - $190\nDouble-Barreled Shotgun - $95\nSawed-Off Shotgun - $85\nPump-Action Shotgun - $148\nSemi-Auto Shotgun - $225\nRepeating Shotgun - $185",
+                                    "x": 0.8713,
+                                    "y": 0.4649,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_gunsmithstore_05",
+                                    "title": "Gunsmith",
+                                    "description": "Cattleman Revolver - $50\nDouble-Action Revolver - $65\nSchofield Revolver - $84\nVolcanic Pistol - $150\nSemi-Automatic Pistol - $210\nMauser Pistol - $250\nCarbine Repeater - $90\nLancaster Repeater - $135\nLitchfield Repeater - $145\nVarmint Rifle - $72\nSpringfield Rifle - $120\nBolt Action Rifle - $180\nRolling Block Rifle - $187\nCarcano Rifle - $190\nDouble-Barreled Shotgun - $95\nSawed-Off Shotgun - $85\nPump-Action Shotgun - $148\nSemi-Auto Shotgun - $225\n\nRepeating Shotgun - $185\n\nNote: There is also a bath available in this Gunsmith",
+                                    "x": 0.8911,
+                                    "y": 0.6944,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_hotel",
+                            "elementName": "Hotel",
+                            "elementIcon": "Used Icons/bed",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_hotel_01",
+                                    "title": "Hotel",
+                                    "description": "Hotel",
+                                    "x": 0.8941,
+                                    "y": 0.6286,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hotel_02",
+                                    "title": "Hotel",
+                                    "description": "Hotel",
+                                    "x": 0.6033,
+                                    "y": 0.6463,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_hotel_03",
+                                    "title": "Hotel",
+                                    "description": "Hotel",
+                                    "x": 0.4716,
+                                    "y": 0.5457,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_newspaperseller",
+                            "elementName": "Newspaper Seller",
+                            "elementIcon": "Used Icons/newspaper",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_newspaperseller_01",
+                                    "title": "Newspaper Seller",
+                                    "description": "Sells The Blackwater Ledger.",
+                                    "x": 0.4755,
+                                    "y": 0.5432,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_newspaperseller_02",
+                                    "title": "Newspaper Seller",
+                                    "description": "Sells The Blackwater Ledger.",
+                                    "x": 0.5607,
+                                    "y": 0.4608,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_newspaperseller_03",
+                                    "title": "Newspaper Seller",
+                                    "description": "Sells the New Hanover Gazette.",
+                                    "x": 0.6078,
+                                    "y": 0.6476,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_newspaperseller_04",
+                                    "title": "Newspaper Seller",
+                                    "description": "Sells The Saint Denis Times.",
+                                    "x": 0.7494,
+                                    "y": 0.4634,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_newspaperseller_05",
+                                    "title": "Newspaper Seller",
+                                    "description": "Sells The Saint Denis Times.",
+                                    "x": 0.8682,
+                                    "y": 0.4546,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_newspaperseller_06",
+                                    "title": "Newspaper Seller",
+                                    "description": "Sells the New Hanover Gazette.",
+                                    "x": 0.8910,
+                                    "y": 0.6967,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_photostudio",
+                            "elementName": "Photo Studio",
+                            "elementIcon": "Used Icons/photo-camera",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_photostudio_01",
+                                    "title": "Photo Studio",
+                                    "description": "Photo Studio",
+                                    "x": 0.8724,
+                                    "y": 0.4797,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_photostudio_02",
+                                    "title": "Photo Studio",
+                                    "description": "Photo Studio",
+                                    "x": 0.5602,
+                                    "y": 0.4574,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_postoffice",
+                            "elementName": "Post Office",
+                            "elementIcon": "Used Icons/letter",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_postoffice_01",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.1715,
+                                    "y": 0.2728,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_02",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.5546,
+                                    "y": 0.4612,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_03",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.5357,
+                                    "y": 0.5268,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_04",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.4759,
+                                    "y": 0.5447,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_05",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.5174,
+                                    "y": 0.6127,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_06",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.6159,
+                                    "y": 0.6333,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_07",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.7659,
+                                    "y": 0.6168,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_08",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.7400,
+                                    "y": 0.4643,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_09",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.8736,
+                                    "y": 0.4549,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_10",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.8946,
+                                    "y": 0.6279,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_11",
+                                    "title": "Post Office",
+                                    "description": "Post Office",
+                                    "x": 0.8902,
+                                    "y": 0.6912,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_postoffice_12",
+                                    "title": "Post Office - Armadillo (Online)",
+                                    "description": "Post Office (Online only)",
+                                    "x": 0.3031,
+                                    "y": 0.3492,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_saloon",
+                            "elementName": "Saloon",
+                            "elementIcon": "Used Icons/saloon",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_saloon_01",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.8910,
+                                    "y": 0.6246,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_02",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.8774,
+                                    "y": 0.4755,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_03",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.8641,
+                                    "y": 0.4701,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_04",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.7497,
+                                    "y": 0.4574,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_05",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.5592,
+                                    "y": 0.4620,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_06",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.6108,
+                                    "y": 0.6461,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_07",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.6047,
+                                    "y": 0.6492,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_08",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.3058,
+                                    "y": 0.3498,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_saloon_09",
+                                    "title": "Saloon",
+                                    "description": "Saloon",
+                                    "x": 0.1457,
+                                    "y": 0.3220,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_show",
+                            "elementName": "Show",
+                            "elementIcon": "Used Icons/theater",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_show_01",
+                                    "title": "Show",
+                                    "description": "Show",
+                                    "x": 0.5624,
+                                    "y": 0.4590,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_show_02",
+                                    "title": "Show",
+                                    "description": "Show",
+                                    "x": 0.6011,
+                                    "y": 0.6394,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_show_03",
+                                    "title": "Show",
+                                    "description": "Show",
+                                    "x": 0.8559,
+                                    "y": 0.4649,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_show_04",
+                                    "title": "Show",
+                                    "description": "Show",
+                                    "x": 0.8683,
+                                    "y": 0.4595,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_stable",
+                            "elementName": "Stable",
+                            "elementIcon": "Used Icons/horseshoe",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_stable_01",
+                                    "title": "Saint Denis Stables",
+                                    "description": "Stable",
+                                    "x": 0.8525,
+                                    "y": 0.4503,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stable_02",
+                                    "title": "Stable",
+                                    "description": "Stable",
+                                    "x": 0.8926,
+                                    "y": 0.6485,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stable_03",
+                                    "title": "Scarlett Meadows Stable",
+                                    "description": "Stable",
+                                    "x": 0.7382,
+                                    "y": 0.5612,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stable_04",
+                                    "title": "Stable",
+                                    "description": "Stable",
+                                    "x": 0.5992,
+                                    "y": 0.6480,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stable_05",
+                                    "title": "Blackwater Stables",
+                                    "description": "Stable",
+                                    "x": 0.5556,
+                                    "y": 0.4579,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stable_06",
+                                    "title": "Stable",
+                                    "description": "Stable",
+                                    "x": 0.4714,
+                                    "y": 0.5289,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stable_07",
+                                    "title": "Stable",
+                                    "description": "Stable",
+                                    "x": 0.1455,
+                                    "y": 0.3103,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_stagecoach",
+                            "elementName": "Stage Coach",
+                            "elementIcon": "Used Icons/road-sign",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_stagecoach_01",
+                                    "title": "Stage Coach - Tumbleweed",
+                                    "description": "Stage Coach",
+                                    "x": 0.1522,
+                                    "y": 0.3183,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_02",
+                                    "title": "Stage Coach - Armadillo",
+                                    "description": "Stage Coach",
+                                    "x": 0.3038,
+                                    "y": 0.3468,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_03",
+                                    "title": "Stage Coach - Macfarlane's Ranch",
+                                    "description": "Stage Coach",
+                                    "x": 0.4134,
+                                    "y": 0.3628,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_04",
+                                    "title": "Stage Coach - Blackwater",
+                                    "description": "Stage Coach",
+                                    "x": 0.5564,
+                                    "y": 0.4601,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_05",
+                                    "title": "Stage Coach - Strawberry",
+                                    "description": "Stage Coach",
+                                    "x": 0.4693,
+                                    "y": 0.5393,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_06",
+                                    "title": "Stage Coach - Valentine",
+                                    "description": "Stage Coach",
+                                    "x": 0.6148,
+                                    "y": 0.6348,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_07",
+                                    "title": "Stage Coach - Colter",
+                                    "description": "Stage Coach",
+                                    "x": 0.5171,
+                                    "y": 0.7923,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_08",
+                                    "title": "Stage Coach - Wapiti",
+                                    "description": "Wapiti Indian Reservation",
+                                    "x": 0.6741,
+                                    "y": 0.7703,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_09",
+                                    "title": "Stage Coach - Emerald Ranch",
+                                    "description": "Stage Coach",
+                                    "x": 0.7659,
+                                    "y": 0.6150,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_10",
+                                    "title": "Stage Coach - Rhodes",
+                                    "description": "Stage Coach",
+                                    "x": 0.7430,
+                                    "y": 0.4640,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_11",
+                                    "title": "Stage Coach - Saint Denis",
+                                    "description": "Stage Coach",
+                                    "x": 0.8729,
+                                    "y": 0.4535,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_12",
+                                    "title": "Stage Coach - Van Horn",
+                                    "description": "Stage Coach",
+                                    "x": 0.8911,
+                                    "y": 0.6309,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_stagecoach_13",
+                                    "title": "Stage Coach - Annesburg",
+                                    "description": "Stage Coach",
+                                    "x": 0.8897,
+                                    "y": 0.6930,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_tailor",
+                            "elementName": "Tailor",
+                            "elementIcon": "Used Icons/Tshirt",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_tailor_01",
+                                    "title": "Tailor",
+                                    "description": "Tailor",
+                                    "x": 0.8565,
+                                    "y": 0.4754,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_tailor_02",
+                                    "title": "Tailor",
+                                    "description": "Tailor",
+                                    "x": 0.5649,
+                                    "y": 0.4636,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_trapper",
+                            "elementName": "Trapper",
+                            "elementIcon": "Used Icons/paw",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_trapper_01",
+                                    "title": "Trapper",
+                                    "description": "Trapper",
+                                    "x": 0.4325,
+                                    "y": 0.4089,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trapper_02",
+                                    "title": "Trapper",
+                                    "description": "Trapper",
+                                    "x": 0.3799,
+                                    "y": 0.5893,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trapper_03",
+                                    "title": "Trapper",
+                                    "description": "Trapper",
+                                    "x": 0.5417,
+                                    "y": 0.5293,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trapper_04",
+                                    "title": "Trapper",
+                                    "description": "Trapper",
+                                    "x": 0.8811,
+                                    "y": 0.4696,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trapper_05",
+                                    "title": "Trapper",
+                                    "description": "Trapper",
+                                    "x": 0.8141,
+                                    "y": 0.6669,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_trainstation",
+                            "elementName": "Train Station",
+                            "elementIcon": "Used Icons/train",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_trainstation_01",
+                                    "title": "Benedict Point Train Station",
+                                    "description": "Train Station",
+                                    "x": 0.1701,
+                                    "y": 0.2723,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_02",
+                                    "title": "Wallace Station",
+                                    "description": "Train Station",
+                                    "x": 0.5169,
+                                    "y": 0.6150,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_03",
+                                    "title": "Riggs Station",
+                                    "description": "Train Station",
+                                    "x": 0.5347,
+                                    "y": 0.5265,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_04",
+                                    "title": "Flatneck Station",
+                                    "description": "Train Station",
+                                    "x": 0.6022,
+                                    "y": 0.5473,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_05",
+                                    "title": "Valentine Station",
+                                    "description": "Train Station",
+                                    "x": 0.6173,
+                                    "y": 0.6335,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_06",
+                                    "title": "Rhodes Station",
+                                    "description": "Train Station",
+                                    "x": 0.7392,
+                                    "y": 0.4633,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_07",
+                                    "title": "Emerald Station",
+                                    "description": "Train Station",
+                                    "x": 0.7666,
+                                    "y": 0.6170,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_08",
+                                    "title": "Saint Denis Station",
+                                    "description": "Train Station",
+                                    "x": 0.8719,
+                                    "y": 0.4498,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_09",
+                                    "title": "Van Horn Train Station",
+                                    "description": "Train Station",
+                                    "x": 0.8861,
+                                    "y": 0.6336,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_trainstation_10",
+                                    "title": "Annesburg Station",
+                                    "description": "Train Station",
+                                    "x": 0.8926,
+                                    "y": 0.6922,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        },
+                        {
+                            "elementId": "el_fasttravel",
+                            "elementName": "Fast Travel",
+                            "elementIcon": "Used Icons/distance",
+                            "elementColor": "#4F603F",
+                            "items": [
+                                {
+                                    "itemId": "it_fasttravel_01",
+                                    "title": "Tumbleweed",
+                                    "description": "Fast Travel",
+                                    "x": 0.1473,
+                                    "y": 0.3184,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_02",
+                                    "title": "Benedict Point",
+                                    "description": "Fast Travel",
+                                    "x": 0.1714,
+                                    "y": 0.2721,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_03",
+                                    "title": "Armadillo",
+                                    "description": "Fast Travel",
+                                    "x": 0.3086,
+                                    "y": 0.3482,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_04",
+                                    "title": "MacFarlane's Ranch",
+                                    "description": "Fast Travel",
+                                    "x": 0.4165,
+                                    "y": 0.3643,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_05",
+                                    "title": "Thieves Landing",
+                                    "description": "Fast Travel",
+                                    "x": 0.5065,
+                                    "y": 0.3768,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_06",
+                                    "title": "Manzanita Trading Post",
+                                    "description": "Fast Travel",
+                                    "x": 0.4612,
+                                    "y": 0.4295,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_07",
+                                    "title": "Beecher's Hope",
+                                    "description": "Unlocked as a fast travel point after the 'Home on the Gentry' mission in the Epilogue.",
+                                    "x": 0.4882,
+                                    "y": 0.4586,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_08",
+                                    "title": "Blackwater",
+                                    "description": "Fast Travel",
+                                    "x": 0.5583,
+                                    "y": 0.4605,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_09",
+                                    "title": "Strawberry",
+                                    "description": "Fast Travel",
+                                    "x": 0.4705,
+                                    "y": 0.5392,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_10",
+                                    "title": "Pronghorn Ranch",
+                                    "description": "This ranch is unlocked at the beginning of the first Epilogue Chapter.\n\nNB: Does not appear in Red Dead Online.",
+                                    "x": 0.4008,
+                                    "y": 0.6165,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_11",
+                                    "title": "Colter",
+                                    "description": "Fast Travel",
+                                    "x": 0.5147,
+                                    "y": 0.7927,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_12",
+                                    "title": "Wapiti Indian Reservation",
+                                    "description": "Fast Travel",
+                                    "x": 0.6720,
+                                    "y": 0.7753,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_13",
+                                    "title": "Valentine",
+                                    "description": "Fast Travel",
+                                    "x": 0.6050,
+                                    "y": 0.6476,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_14",
+                                    "title": "Cornwall Kerosene & Tar",
+                                    "description": "Fast Travel",
+                                    "x": 0.6723,
+                                    "y": 0.6406,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_15",
+                                    "title": "Emerald Ranch",
+                                    "description": "Fast Travel",
+                                    "x": 0.7571,
+                                    "y": 0.6063,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_16",
+                                    "title": "Braithwaite Manor",
+                                    "description": "Fast Travel",
+                                    "x": 0.7208,
+                                    "y": 0.4285,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_17",
+                                    "title": "Rhodes",
+                                    "description": "Fast Travel",
+                                    "x": 0.7470,
+                                    "y": 0.4642,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_18",
+                                    "title": "Caliga Hall",
+                                    "description": "Fast Travel",
+                                    "x": 0.7869,
+                                    "y": 0.4580,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_19",
+                                    "title": "Saint Denis",
+                                    "description": "Fast Travel",
+                                    "x": 0.8701,
+                                    "y": 0.4547,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_20",
+                                    "title": "Lagras",
+                                    "description": "Fast Travel",
+                                    "x": 0.8177,
+                                    "y": 0.5217,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_21",
+                                    "title": "Van Horn Trading Post",
+                                    "description": "Fast Travel",
+                                    "x": 0.8923,
+                                    "y": 0.6298,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_22",
+                                    "title": "Butcher Creek",
+                                    "description": "Fast Travel",
+                                    "x": 0.8569,
+                                    "y": 0.6473,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                },
+                                {
+                                    "itemId": "it_fasttravel_23",
+                                    "title": "Annesburg",
+                                    "description": "Fast Travel",
+                                    "x": 0.8889,
+                                    "y": 0.6917,
+                                    "iconOverride": "",
+                                    "itemColorOverride": "",
+                                    "relatedItems": [],
+                                    "youtubeVideo": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
