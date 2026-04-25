@@ -1,14 +1,14 @@
 {
     "gameId": "rdr2",
     "gameName": "Red Dead Redemption 2",
-    "dataVersion": 3,
+    "dataVersion": 4,
     "updateNotes": [
         "Improved map accuracy for RDR2",
-        "New collectibles added",
-        "New objectives added",
-        "3,000+ New Items added"
+        "3,000+ New Items added",
+        "Reduced showing forced ads :)",
+        "Enjoy",
     ],
-    "loadTime": "420",
+    "loadTime": "600",
     "discord": "https://discord.gg/EzzD4VxPwg",
     "youtube": "https://www.youtube.com/@Mr23TVx",
     "website": "",
@@ -4745,7 +4745,7 @@
                         {
                             "elementId": "el_huntingrequest",
                             "elementName": "Hunting Request",
-                            "elementIcon": "Urd/bow",
+                            "elementIcon": "rd/bow",
                             "isVisible": true,
                             "elementColor": "#8B6914",
                             "items": [
@@ -14009,7 +14009,7 @@
                         {
                             "elementId": "el_fencevendor",
                             "elementName": "Fence Vendor",
-                            "elementIcon": "Used Icons/pin",
+                            "elementIcon": "Used Icons/fence",
                             "isVisible": true,
                             "elementColor": "#4F603F",
                             "items": [
@@ -14181,7 +14181,7 @@
                         {
                             "elementId": "el_gunsmithstore",
                             "elementName": "Gunsmith Store",
-                            "elementIcon": "Used Icons/pin",
+                            "elementIcon": "Guns/HeavyGun/Shotgun1_VH",
                             "isVisible": true,
                             "elementColor": "#4F603F",
                             "items": [
@@ -14642,7 +14642,7 @@
                         {
                             "elementId": "el_show",
                             "elementName": "Show",
-                            "elementIcon": "Used Icons/pin",
+                            "elementIcon": "Used Icons/theater",
                             "isVisible": true,
                             "elementColor": "#4F603F",
                             "items": [
