@@ -9,7 +9,7 @@
     "updateMessage": "A new version is required to continue playing.",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.rdr2",
     "appStoreUrl": "https://apps.apple.com/us/app/mapwizard-rdr2-map-tracker/id6761485334",
-    "dataVersion": 5,
+    "dataVersion": 6,
     "updateNotes": [
         "Improved map accuracy for RDR2",
         "3,000+ New Items added",
