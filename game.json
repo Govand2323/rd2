@@ -1,6 +1,14 @@
 {
     "gameId": "rdr2",
     "gameName": "Red Dead Redemption 2",
+    "latestAndroidVersion": "1.0.0",
+    "minAndroidSupportedVersion": "1.0.0",
+    "latestiOSVersion": "1.0.0",
+    "miniOSSupportedVersion": "1.0.0",
+    "forceUpdate": false,
+    "updateMessage": "A new version is required to continue playing.",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.blindfoldgames.rdr2",
+    "appStoreUrl": "https://apps.apple.com/us/app/mapwizard-rdr2-map-tracker/id6761485334",
     "dataVersion": 5,
     "updateNotes": [
         "Improved map accuracy for RDR2",
